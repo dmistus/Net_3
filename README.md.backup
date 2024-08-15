@@ -98,8 +98,6 @@ resource "yandex_kms_symmetric_key" "secret-key" {
 
 Ссылка на terraform-файлы: 
 
-https://github.com/dmistus/Net_3/tree/main/src
-
 
 
 
